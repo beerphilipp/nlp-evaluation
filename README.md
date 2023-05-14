@@ -10,6 +10,11 @@ Our study involves the assessment of a rudimentary Natural Language Processing a
 - `code` contains the Jupyter notebooks to run the experiment
 - `data/input` contains the external datasets used as input files
 - `data/ouput` contains files generated while running the experiment
+  - Intermediary result [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7933975.svg)](https://doi.org/10.5281/zenodo.7933975)
+  - Result [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7933985.svg)](https://doi.org/10.5281/zenodo.7933985)
+
+  - Rating Confusion Matrix [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7933973.svg)](https://doi.org/10.5281/zenodo.7933973)
+  - Category Confusion Matrix [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7903932.svg)](https://doi.org/10.5281/zenodo.7903932)
 - `documentation` contains the architecture of the pipeline and pipeline metadata
 
 

@@ -1,7 +1,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
-  <identifier identifierType="DOI"></identifier>
+  <identifier identifierType="DOI">10.5281/zenodo.7933973</identifier>
   <creators>
     <creator>
       <creatorName>Philipp Beer</creatorName>
@@ -31,7 +31,7 @@
     <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.5281/zenodo.3549704</relatedIdentifier>
     <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.5281/zenodo.2844022</relatedIdentifier>
     <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm</relatedIdentifier>
-    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf"></relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5281/zenodo.7933964</relatedIdentifier>
   </relatedIdentifiers>
   <rightsList>
     <rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</rights>
