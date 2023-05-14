@@ -1,0 +1,39 @@
+<resource xmlns="http://datacite.org/schema/kernel-4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+    <identifier identifierType="DOI"></identifier>
+    <creators>
+        <creator>
+            <creatorName>Philipp Beer</creatorName>
+            <nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">
+                0009-0009-6923-0027</nameIdentifier>
+        </creator>
+    </creators>
+    <titles>
+        <title>Evaluation of a simple score-based Natural Language Processing (NLP) algorithm</title>
+    </titles>
+    <resourceType resourceTypeGeneral="Software">Jupyter Notebook</resourceType>
+    <descriptions>
+        <description descriptionType="Abstract">Our study involves the assessment of a rudimentary
+            Natural Language Processing algorithm aimed at rating product reviews. Each positive
+            word increases the score of the review, whereas a negative word decreases its score.
+            While this method may not be well-suited for accurately predicting a review's numerical
+            rating on a scale of 1 to 5, it proves to be an effective approach for categorizing
+            reviews into positive and negative classes with acceptable levels of accuracy.</description>
+    </descriptions>
+    <dates>
+        <date dateType="Created">2023-05-13</date>
+    </dates>
+    <formats>
+        <format>application/x-ipynb+json</format>
+    </formats>
+    <rightsList>
+        <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
+    </rightsList>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo"></relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo"></relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo"></relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo"></relatedIdentifier>
+    </relatedIdentifiers>
+</resource>

@@ -1,0 +1,46 @@
+<resource xmlns="http://datacite.org/schema/kernel-4"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+  <identifier identifierType="DOI"></identifier>
+  <creators>
+    <creator>
+      <creatorName>Philipp Beer</creatorName>
+      <nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">
+        0009-0009-6923-0027</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>Merged and preprocessed reviews.</title>
+  </titles>
+  <publicationYear>2023</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset" />
+  <descriptions>
+    <description descriptionType="Abstract">This file contains the merged and preprocessed reviews.</description>
+  </descriptions>
+  <dates>
+    <date dateType="Created">2023-05-13</date>
+  </dates>
+  <formats>
+    <format>text/csv</format>
+  </formats>
+  <subjects>
+    <subject>text: A column containing the review text data.</subject>
+    <subject>rating: A column containing the rating of the review. (discrete values, 1-5)</subject>
+    <subject>source: A column containing the source of the review ("GP" or "Amazon").</subject>
+    <subject>cleaned_text: A column containing the text data after removing the stopwords.</subject>
+    <subject>predicted_rating: A column containing the caluclated, predicted rating for the review. (continuous values, 1-5)</subject>
+    <subject>category: A column containing the category of each review ("good" or "bad").</subject>
+    <subject>predicted_category: A column containing the predicted category for each review ("good" or "bad").</subject>
+    <subject>predicted_rating_discrete: A column containing the discretized predicted rating for each review (discrete values, 1-5).</subject>
+  </subjects>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.5281/zenodo.3549704</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDerivedFrom">10.5281/zenodo.2844022</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf"></relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</rights>
+  </rightsList>
+  <language>en</language>
+</resource>
