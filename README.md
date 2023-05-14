@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/640462145.svg)](https://zenodo.org/badge/latestdoi/640462145)
+
 # Evaluation of a simple score-based Natural Language Processing (NLP) algorithm
 
 
